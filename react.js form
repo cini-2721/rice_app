@@ -1,0 +1,3 @@
+npx create-react-app ml-classification-frontend
+cd ml-classification-frontend
+npm start

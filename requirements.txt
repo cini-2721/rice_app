@@ -1,0 +1,7 @@
+git add .
+git commit -m "Describe your changes"
+git push
+npm start
+npx create-react-app ml-classification-frontend
+cd ml-classification-frontend
+npm start

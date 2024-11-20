@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/DINESHMD2033/Rice-Classification-using-Fluid-Mechanics.git
+git add .
+git commit -m "Initial commit: Add frontend and backend code"
+git branch -M main
+git push -u origin main
+npm start
